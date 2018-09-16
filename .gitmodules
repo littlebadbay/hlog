@@ -1,0 +1,9 @@
+[submodule "site/themes/alpha-church"] 
+  path = site/themes/alpha-church 
+  url = git://github.com/funkydan2/alpha-church.git
+[submodule "site/themes/hugo-pacman-theme"] 
+  path = site/themes/hugo-pacman-theme
+  url = git://github.com/coderzh/hugo-pacman-theme.git
+[submodule "site/themes/hugo-theme-air"] 
+  path = site/themes/hugo-theme-air
+  url = git://github.com/syui/hugo-theme-air.git
